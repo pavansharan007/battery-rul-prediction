@@ -1,0 +1,6 @@
+Machine Learning Model,RMSE (Cycles),MAE (Cycles),MAPE (%),R² Score
+Support Vector Regression,12.99,8.78,31.18,0.7847
+Random Forest,10.75,7.82,37.44,0.8525
+Long Short-Term Memory,14.37,12.19,63.73,0.7072
+LightGBM,11.5,8.52,33.44,0.8314
+XGBoost (Proposed),10.0,6.77,25.7,0.8723
